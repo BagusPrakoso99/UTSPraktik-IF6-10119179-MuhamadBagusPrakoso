@@ -1,0 +1,46 @@
+<resources>
+    <!--
+    Tanggal pengerjaan : 25/05/2023
+    Nim : 10119179
+    Nama : Muhamad Bagus Prakoso
+    Kelas : IF-6
+    -->
+    <string name="app_name">UTSPraktik-IF6-10119179-MuhamadBagusPrakoso</string>
+    <!--Pelaksanaan -->
+    <string name="pelppdb">Pelaksanaan PPDB Tahap 1 2023</string>
+    <string name="pelppdb1">Persiapan</string>
+    <string name="pelppdb2">17 Mei - 05 Juni 2023</string>
+
+    <!--Pengumuman -->
+    <string name="peng">Pengumuman Hasil Seleksi</string>
+    <string name="peng1">Anda dinyatakan diterima di</string>
+    <string name="peng2">SMA Negeri 1 Bojonggede</string>
+    <string name="peng3">Jalur Prestasi Kejuaraan</string>
+
+    <!--Layanan -->
+    <string name="lay">Layanan PPDB</string>
+    <string name="lay1">Kota Bandung</string>
+    <string name="lay2">Info Sekolah PPDB</string>
+    <string name="lay3">Sosialisasi PPDB</string>
+    <string name="lay4">Pendaftaran PPDB Tahap 1</string>
+    <string name="lay5">Pengumuman PPDB Tahap 2</string>
+    <string name="lay6">Hotline</string>
+    <!--Berita -->
+    <string name="ber">Berita Terkait PPDB</string>
+    <string name="ber1">Dapatkan semua informasi terbaru dan terpopuler terkait PPDB</string>
+    <string name="ber2">PPDB SMA/ SMK 2022, Ridwan Kamil: PPDB Di Jawa Barat...</string>
+    <string name="ber3">Pendidikan</string>
+    <string name="ber4">15 jam yang lalu</string>
+    <string name="ber5">Persiapan PPDB Jabar Tahun 2021 Sudah Matang</string>
+    <string name="ber6">4 Juni 2022</string>
+    <string name="ber7">Pelaksanaan Teknis PPDB Harus Evaluasi Diri</string>
+    <string name="ber8">24 Mei 2022</string>
+    <string name="ber9">Masih ditemukan \'Blank Spot\' dalam Proses PPDB Kabupate...</string>
+    <string name="ber10">Bupati Purwakarta Hadiri Pembukaan Masa Pengenalan...</string>
+    <string name="ber11">19 Juli 2022</string>
+    <string name="ber12">Lihat semua berita</string>
+
+
+    <string name="kem">Kembali ke atas</string>
+
+</resources>
